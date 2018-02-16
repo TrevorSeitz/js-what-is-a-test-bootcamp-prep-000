@@ -9,3 +9,5 @@ module.exports = {name, height, message}
 =======
 .
 >>>>>>> ad69964e7a5cb1d7096f41fb55c1e2af621a805f
+
+console.log(message)
